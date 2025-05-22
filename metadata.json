@@ -1,0 +1,6 @@
+{
+  "title": "Data Lakehouse Moderno",
+  "description": "Arquitectura Lakehouse con Delta Lake, Spark y pipelines orquestados en la nube para analítica avanzada.",
+  "tech": ["Delta Lake", "Spark", "Databricks", "Python", "Cloud"],
+  "github": "https://github.com/JackDM/data-lakehouse-modern"
+}
